@@ -1,74 +1,111 @@
-```md
+# 🌊 Header Banner
+
+```html
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a11cb,100:2575fc&text=Saksham%20Jha&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Computer%20Science%20Engineering%20Student&descAlignY=60"/>
+
+</div>
+```
+
+# 👋 Introduction
+
 <h1 align="center">Hi 👋, I'm Saksham Jha</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Enthusiast | AI & ML Explorer | Computer Science Engineering Student
+🚀 Full Stack Developer | MERN Stack Enthusiast | AI & Machine Learning Explorer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Artificial+Intelligence+Enthusiast;Computer+Science+Engineering+Student;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Developer;Artificial+Intelligence+Enthusiast;Computer+Science+Engineering+Student;AIR+206+IPU+LEET+2025;Always+Learning+New+Technologies+🚀"/>
 </p>
 
+---
+
+# 🏅 Achievements
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Saksham9934&label=Profile+Views&color=blue&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AIR-206-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IPU%20LEET-2025-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MSIT-B.Tech%20CSE-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN%20Stack-Developer-brightgreen?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Saksham9934&label=Profile%20Views&style=for-the-badge&color=blue"/>
+
 <img src="https://img.shields.io/github/followers/Saksham9934?logo=github&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Saksham9934?logo=github&style=for-the-badge"/>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+```yaml
+Name: Saksham Jha
 
-🎓 Diploma in Computer Engineering
+Location: Delhi, India 🇮🇳
 
-🏆 AIR **206** in **IPU LEET 2025**
+Education:
+  • B.Tech Computer Science & Engineering (MSIT)
+  • Diploma in Computer Engineering
 
-💻 Passionate Full Stack Developer
+Rank:
+  • AIR 206 - IPU LEET 2025
 
-🤖 AI & Machine Learning Enthusiast
+Current Focus:
+  • Full Stack Development
+  • Artificial Intelligence
+  • Machine Learning
+  • Open Source
 
-🌱 Currently Learning
+Learning:
+  • React.js
+  • Next.js
+  • Node.js
+  • Express.js
+  • MongoDB
+  • TypeScript
+  • AWS
+  • DevOps
 
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- AWS
-- DevOps
+Currently Building:
+  • MERN Stack Applications
+  • AI Projects
+  • REST APIs
+  • Authentication Systems
 
-🔭 Currently Working On
-
-- MERN Stack Projects
-- AI based Applications
-
-💬 Ask Me About
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Python
-- Git
-- GitHub
-
-📫 Email
-
-**sakshamjha3027@gmail.com**
-
-📍 Delhi, India
+Email:
+  • sakshamjha3027@gmail.com
+```
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Current Goals
+
+* 🔭 Building real-world MERN Stack projects
+* 🌱 Learning System Design & Cloud Computing
+* 🤝 Contributing to Open Source
+* 💼 Preparing for Software Development roles
+* 📚 Improving Data Structures & Algorithms
+* 🚀 Exploring AI & Machine Learning
+
+---
+
+## 💡 Quote
+
+> **"The best way to predict the future is to build it."** 🚀
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,figma,firebase,aws,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,postman,firebase,figma,aws,docker&perline=8"/>
 
 </p>
 
@@ -78,51 +115,99 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saksham-jha-141623275">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://x.com/SAKSHAMJHA197">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="https://t.me/Saksham77282">
-<img src="https://skillicons.dev/icons?i=discord"/>
+<a href="https://www.linkedin.com/in/saksham-jha-141623275" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="mailto:sakshamjha3027@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://x.com/SAKSHAMJHA197" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
+</a>
+
+<a href="https://t.me/Saksham77282" target="_blank">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="50"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61563999322121" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="50"/>
 </a>
 
 </p>
 
 ---
 
-# 🏆 Featured Projects
+# 💼 Professional Experience
 
-| Project | Description |
-|---------|-------------|
-| 🧠 Skin Cancer Detection (CNN) | Deep Learning model for Skin Cancer Detection |
-| 🎯 YOLOv8 Skin Cancer Detection | Object Detection using YOLOv8 |
-| 💼 Portfolio Website | Responsive Portfolio using React |
-| 🌐 MERN Stack Projects | Authentication, CRUD, APIs |
-| 🤖 AI/ML Projects | Machine Learning & Computer Vision |
+| Position                                    | Organization             | Duration |
+| ------------------------------------------- | ------------------------ | -------- |
+| 💻 Full Stack Development Intern            | StapLab                  | 2026     |
+| 🤖 AI & Machine Learning Intern             | NSUT                     | 2024     |
+| 🐍 Python Development Intern                | Upskill Campus           | 2024     |
+| 🌐 Advanced IT & Professional Skills Intern | Tech Mahindra Foundation | 2024     |
 
+---
+
+# 🚀 Featured Projects
+
+| Project                            | Technology         | Description                                           |
+| ---------------------------------- | ------------------ | ----------------------------------------------------- |
+| 🧠 Skin Cancer Detection using CNN | Python, TensorFlow | Deep learning model for skin cancer classification.   |
+| 🎯 YOLOv8 Skin Cancer Detection    | YOLOv8, OpenCV     | Object detection and classification using YOLOv8.     |
+| 🌐 MERN Stack Web Applications     | MERN Stack         | Full-stack applications with authentication and CRUD. |
+| 💼 Portfolio Website               | React.js           | Responsive portfolio showcasing skills and projects.  |
+| 📚 Library Management System       | Python, MySQL      | Database-driven management system.                    |
+| 🏥 Hospital Management System      | Python, DBMS       | Hospital administration project.                      |
+
+---
+
+# 📜 Certifications
+
+* 🏅 Full Stack Development Internship – StapLab
+* 🏅 Artificial Intelligence & Machine Learning – NSUT
+* 🏅 Python Development – Upskill Campus
+* 🏅 Advanced IT & Professional Skills – Tech Mahindra Foundation
+* 🏅 React.js Development
+* 🏅 Database Management Systems (DBMS)
+* 🏅 Data Structures & Algorithms (Learning)
+
+---
+
+# 🎯 Areas of Interest
+
+* 🌐 Full Stack Web Development
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* ☁️ Cloud Computing
+* 🔐 Cyber Security
+* 📱 Responsive Web Development
+* 📊 Data Structures & Algorithms
+* 🚀 Open Source Contributions
+
+---
+
+````md
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saksham9934&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saksham9934&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham9934&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham9934&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Saksham9934&theme=tokyonight"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham9934&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -132,7 +217,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saksham9934&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saksham9934&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -142,17 +227,97 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham9934&theme=tokyo-night"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham9934&theme=react-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📅 GitHub Activity
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Saksham9934/Saksham9934/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saksham9934&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Statistics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saksham9934&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saksham9934&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Overview
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saksham9934&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saksham9934&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💻 Development Activity
+
+```text
+💻 Full Stack Development
+███████████████████░░░ 90%
+
+⚛️ React.js
+█████████████████░░░░░ 85%
+
+🟢 Node.js
+████████████████░░░░░░ 80%
+
+🍃 MongoDB
+███████████████░░░░░░░ 75%
+
+🤖 Artificial Intelligence
+██████████████░░░░░░░░ 70%
+
+🐍 Python
+██████████████████░░░░ 88%
+
+☁️ AWS & DevOps
+███████████░░░░░░░░░░░ 55%
+````
+
+---
+
+# 📌 Current Focus
+
+* 🚀 Building Full Stack MERN Applications
+* 🌱 Learning Next.js & TypeScript
+* ☁️ Exploring AWS Cloud Services
+* 🤖 Working on AI & Machine Learning Projects
+* 📚 Solving Data Structures & Algorithms Problems
+* 💼 Preparing for Software Development Roles
+
+---
+
+```
+```
+
+```md
+---
+
+# 🐍 GitHub Contribution Snake
+
+> **Enable this after creating the GitHub Action for the snake animation.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Saksham9934/Saksham9934/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </p>
 
@@ -162,31 +327,98 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/your_username/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.geeksforgeeks.org/user/your_username/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+<a href="https://www.hackerrank.com/your_username" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/your_username" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ✨ Quote
+# 🏅 Certifications
 
-> *"Success is built one commit at a time."* 🚀
+- 🥇 Full Stack Development Internship — StapLab
+- 🤖 Artificial Intelligence & Machine Learning Internship — NSUT
+- 🐍 Python Development Internship — Upskill Campus
+- 💼 Advanced IT & Professional Skills Internship — Tech Mahindra Foundation
+- ⚛️ React.js Development
+- 🗄️ Database Management Systems
+- 📚 Data Structures & Algorithms (Learning)
 
 ---
 
-<h3 align="center">
+# 🎖️ Achievements
 
-⭐ Thanks for Visiting My Profile ⭐
+🏆 **AIR 206 — IPU LEET 2025**
 
-</h3>
+🎓 Admitted to **Maharaja Surajmal Institute of Technology (MSIT), Delhi**
+
+💻 Successfully completed multiple internships in:
+
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Python Development
+- Frontend Web Development
+
+🚀 Passionate about solving real-world problems using technology.
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+> **"Code. Learn. Build. Repeat."** 🚀
+
+*"Consistency transforms beginners into professionals."*
+
+</div>
+
+---
+
+# 🎯 Visitor Badge
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Saksham9934&label=Visitors&color=0e75b6&style=flat-square"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+🤝 I'm always open to collaborating on interesting Full Stack and AI projects.
+
+💬 Feel free to reach out if you'd like to discuss technology, open source, or software development.
+
+</p>
+
+---
+
+<div align="center">
+
+## 🌟 Thank You for Visiting My Profile! 🌟
+
+### Happy Coding! 💙
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2575fc,100:6a11cb"/>
+
+</div>
 ```
