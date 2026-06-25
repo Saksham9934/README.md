@@ -323,30 +323,6 @@ Email:
 
 ---
 
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/your_username/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/your_username/" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/your_username" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/your_username" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 🏅 Certifications
 
 - 🥇 Full Stack Development Internship — StapLab
@@ -410,8 +386,6 @@ Email:
 
 </p>
 
----
-
 <div align="center">
 
 ## 🌟 Thank You for Visiting My Profile! 🌟
@@ -421,4 +395,3 @@ Email:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2575fc,100:6a11cb"/>
 
 </div>
-```
